@@ -2,7 +2,7 @@
 
 ### Repository structure
 
-[index](./policy_compiler): Folder containing the index layer.
+[index](./index): Folder containing the index layer.
 
 [ycsb_trace_generator](./ycsb_trace_generator/): Submodule containing a modified version of GDPRBench (YCSB-based) to produce workload traces
 
