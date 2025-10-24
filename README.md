@@ -1,4 +1,4 @@
-# GDPRuler
+# Index Layer
 
 ### Repository structure
 
