@@ -1,0 +1,15 @@
+[submodule "KVs/redis"]
+	path = KVs/redis
+	url = https://github.com/redis/redis.git
+[submodule "KVs/rocksdb"]
+	path = KVs/rocksdb
+	url = https://github.com/facebook/rocksdb.git
+[submodule "ycsb_trace_generator/GDPRbench"]
+	path = ycsb_trace_generator/GDPRbench
+	url = https://github.com/dimstav23/GDPRbench.git
+[submodule "CVM_setup/AMDSEV"]
+	path = CVM_setup/AMDSEV
+	url = https://github.com/dimstav23/AMDSEV.git
+[submodule "evaluation/microbenchmarks/ipc-bench"]
+	path = evaluation/microbenchmarks/ipc-bench
+	url = https://github.com/dimstav23/ipc-bench.git

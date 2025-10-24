@@ -1,0 +1,12 @@
+*.img
+*pycache*
+plain_vm/
+.direnv/
+db/
+test_outputs/
+OVMF*
+*.fd
+*.rdb
+logs/
+workload_traces/
+.vscode
